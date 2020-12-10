@@ -1,1 +1,19 @@
-# AlphaVideoAssignment
+## Name: The Body at The Dorm Party
+
+## Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
+
+The project is an interactive murder mystery piece. The user is given three suspects, interrogation videos of each suspect, and a set of “evidence videos” that are Detective Amina’s verbal and visual deductions and analysis of the various pieces of evidence surrounding a murder of an RA that happened in a dorm. Using only these videos, the user is meant to identify the killer as well as the order of events leading up to the murder.
+
+
+The concept and theme are inspired by a [tiktok video]( https://www.tiktok.com/@bomanizer/video/6876205835287022850?_d=secCgsIARCbDRgBIAIoARI%2BCjypEy2WhZDe%2FcaHN70h9xiI0iT5ZDVFllgohwqiF1%2B%2BnRGgIPvAMB%2FHFMxml9p5ftwENphs17oTQhaLQ1kaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAI3701LJkht1C4kxf0937pJ8TyHbbeFbliheo8qmUgiPYj_CztAc_mgfUuZDS0u2Y&share_app_name=musically&share_item_id=6876205835287022850&share_link_id=75ca4fb4-1dc4-43c7-8b9b-4e4d979b2aee&timestamp=1605724525&u_code=daf18e6e61hah6&user_id=6785968050489852934&utm_campaign=client_share&utm_medium=android&utm_source=messenger&source=h5_m) by Bomanizer. The tiktok is a murder mystery parody. The acting was excessively ridiculous, the music is dramatic and the colors are used to actively distinguish memory from interrogation. We were drawn to the idea because the dynamic of our group discouraged making anything serious and we decided to lean into the playful “everything is a joke” relationship we had with each other to make a piece that reflected that. The experience we were striving to create was one that mirrored our collective silly dynamic in a way that is playful and accessible.
+
+
+## Process: How did you go about implementing the concept.
+
+The process of creating the above intended experience ended up being recreating, thematically, what we saw in the tiktok. We found that it summed up all our individual intentions for the piece very actively and was the mid-ground we needed, hence we treated it as a reference point.
+ We found a fish-eye camera lens like the one used in the tiktok, outrageous costumes and created dialogues that matched the ridiculousness of the tiktok but translated into the NYUAD context. The NYUAD context in the dialogues meant poking fun at the different tropes embodied by different majors on campus. On the day of the shoot, as happy as we were with the script, we felt there was a sense of rigidity that didn’t accomplish the initial goal of communicating our dynamic that was built on our individual personalities. To address this, we allowed everyone to choose a trope they most identified with and encouraged ad libs that we decided would be part of the final edits. The results were more confident genuine-feeling delivery of lines from all the characters with each of our personalities clearly coming through. 
+
+## Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version
+
+The final draft of all our videos met and exceeded our expectations. Through the editing we were able to capture key moments where we felt that each of us seemed most comfortable and the result of this, cumulatively, is a feeling of playfulness and carefreeness that we set out to achieve at the start of the project. The use of very simplistic navigations in the website, very little wording and very basic animation also accomplished the goal of making the website very accessible and emphasizing focus on the videos. A concern was that by making the design so simplistic in an attempt to make it playful and accessible, there would be a thematic clash between the website aesthetics and the more elaborate video aesthetics. This was addressed by selecting a color scheme that resembled the colors in the video edits. Cohesion was achieved and the entire project came together exactly how we intended.
+
